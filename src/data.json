@@ -1,0 +1,393 @@
+{
+	"id": "root",
+	"value": "root",
+	"properties": [],
+	"children": [
+		{
+			"id": "CoverBanner-9fca1914-b87b-4458-9763-821df86be83c",
+			"value": "CoverBanner",
+			"properties": [
+				{
+					"name": "title",
+					"value": "<span style=\"color: rgb(194, 65, 12);\"></span><span style=\"color: rgb(194, 65, 12);\"><span style=\"color: rgb(194, 65, 12);\"></span><span style=\"color: rgb(194, 65, 12);\"><span style=\"color: rgb(194, 65, 12);\"><span style=\"color: rgb(250, 250, 250);\">Click </span></span><span style=\"color: rgb(220, 38, 38);\"><span style=\"color: rgb(194, 65, 12);\"></span><span style=\"color: rgb(250, 250, 250);\"><span style=\"color: rgb(194, 65, 12);\"></span><span style=\"color: rgb(250, 250, 250);\"><span style=\"color: rgb(194, 65, 12);\">to</span> </span></span>edit <span style=\"color: rgb(190, 18, 60);\"><span style=\"color: rgb(255, 254, 240);\"><span style=\"color: rgb(234, 179, 8);\">title</span></span></span>...</span></span><span style=\"color: rgb(220, 38, 38);\"></span></span><span style=\"color: rgb(220, 38, 38);\"></span>",
+					"className": "Merriweather Ubuntu Lato Raleway a26ead72-b12b-4145-9116-c873b07e96a1 uppercase lowercase capitalize normal-case text-[#e11d48] text-6xl font-raleway text-left hidden",
+					"id": "299fdfe3-4c6e-4b67-be05-63a42d9c52b3"
+				},
+				{
+					"id": "4da47a4c-af98-4714-98d4-903facfa6945",
+					"name": "subtitle",
+					"value": "字幕を編集するにはクリックしてください...",
+					"className": "Poppins leading-[1.6] leading-[1.7000000000000002] leading-[1.8000000000000003] leading-[1.9000000000000004] leading-[2.0000000000000004] tracking-[0.01em] tracking-[0.02em] _blank _self leading-[1.3] text-[72px] font-semibold text-7xl",
+					"action": ""
+				},
+				{
+					"name": "imgSrc",
+					"value": "https://utfs.io/f/7s6MAT6CG82xPjysflaDo9JB5E2myU8ZsGajrAi0QVc1InLS",
+					"className": "",
+					"id": "1ee3399f-ae6f-4f27-9576-46475bc92ba9"
+				},
+				{
+					"name": "buttonText",
+					"value": "Click to edit...",
+					"className": "",
+					"id": "97afe943-152b-4523-b618-3ef325e7da6a"
+				},
+				{
+					"name": "cta_label",
+					"value": "Click to edit...",
+					"className": "Roboto a26ead72-b12b-4145-9116-c873b07e96a1 uppercase lowercase capitalize normal-case Merriweather Ubuntu Lato Raleway text-[#e11d48] text-6xl font-raleway text-left hidden",
+					"id": "4af2bd12-7b26-4ec3-b537-bc262577227b"
+				},
+				{
+					"name": "type",
+					"value": "ADD_COLUMN",
+					"className": "",
+					"id": "ed27c329-2182-42ef-bc8b-514f9e3c2e80"
+				},
+				{
+					"name": "column",
+					"value": "",
+					"className": "",
+					"id": "540d6032-03f6-4375-854f-f6ef6a9f286b"
+				},
+				{
+					"name": "stylePackKey",
+					"value": "dark",
+					"className": "",
+					"id": "eac48fe5-2995-47a9-ac9c-77d00103c3dc"
+				}
+			],
+			"children": []
+		},
+		{
+			"id": "AboutFounder-2197d036-33db-4a73-9840-b05c766a3a7c",
+			"value": "AboutFounder",
+			"properties": [
+				{
+					"id": "e77370f1-77a4-483c-be84-bbc0700e4389",
+					"name": "header",
+					"value": "<span class=\"fake-highlight\">創設者に会う</span>",
+					"className": "text-left text-6xl text-[#6b7280]",
+					"action": ""
+				},
+				{
+					"id": "cf54e201-f4ba-4a69-9451-079c88c1a49f",
+					"name": "bodyText",
+					"value": "こんにちは、私はアレックスです — このプラットフォームを立ち上げたのは、クリエイターが自分のオンラインプレゼンスをコントロールできるようにするためです。デザインと開発のバックグラウンドを持つ私は、ウェブ上での構築における<span style=\"color: rgb(59, 130, 246);\"><span style=\"color: rgb(194, 65, 12);\">障壁を取り除きたい</span></span>と思いました。sdfsdgsdgsdgsdgsdgsdgsdg。<span style=\"color: rgb(248, 250, 252);\">kjgjkgjhgjhgjjhgjhgj</span>。trertretrettrertrtertretertertrterterterterterteridfgerryuuiergerge.....ieieejubdjhdjh",
+					"className": "Lato normal-case text-left text-base text-[#0f172a]",
+					"action": ""
+				},
+				{
+					"id": "2ae608dd-7a0a-4ac1-9887-592f7ac952c5",
+					"name": "imgSrc",
+					"value": "https://utfs.io/f/7s6MAT6CG82xnuTKzdjPgN3rBU5fZHX6Jlouje0qhnCLW8GD",
+					"className": "[object Object] rounded-[8px] border-[0px] border-[#e5e7eb] filter brightness-[100%] contrast-[100%] grayscale-[100%] blur-[0px] grayscale-[0%] blur-[8px] w-[500px] h-[281px] opacity-[100%] object-cover",
+					"action": "",
+					"imageStyle": {
+						"borderRadius": 8,
+						"boxShadow": "none",
+						"borderWidth": 0,
+						"borderColor": "#e5e7eb",
+						"borderStyle": "solid",
+						"opacity": 1,
+						"objectFit": "cover",
+						"filter": { "brightness": 100, "contrast": 100, "grayscale": 0, "blur": 0 }
+					}
+				},
+				{
+					"name": "heightType",
+					"value": "viewport",
+					"className": "",
+					"id": "e4e75530-f5b8-402c-832e-34343b5226f6"
+				},
+				{
+					"name": "backgroundColor",
+					"value": "#f4f4f5",
+					"className": "",
+					"id": "4f4272d6-b5cf-4052-bcb0-3764379f6a35"
+				}
+			],
+			"children": [
+				{
+					"id": "Layout1-27847dc2-5054-4a0a-82ba-dc28a56152bb",
+					"value": "Layout1",
+					"properties": [
+						{
+							"name": "className",
+							"value": "",
+							"className": "",
+							"id": "ed6933bf-28ef-41d6-9fed-23cf3be279cc"
+						}
+					],
+					"children": []
+				}
+			]
+		},
+		{
+			"id": "AboutMission-dee7a34c-146a-4d7f-b0d9-a9809f8baec1",
+			"value": "AboutMission",
+			"properties": [
+				{
+					"id": "1d3c4267-e0be-49d5-9741-6b60c8d1338b",
+					"name": "header",
+					"value": "Our Mission"
+				},
+				{
+					"id": "2c54da93-7642-4f36-9917-f7071df60b57",
+					"name": "bodyText",
+					"value": "We’re here to empower creators and entrepreneurs to build beautiful online spaces with zero friction.\n        Every line of code we write is for people with big ideas and bigger ambitions.  \n\t\t\t\t"
+				}
+			],
+			"children": []
+		},
+		{
+			"id": "HeroCTA-70b0217f-dda0-4ac3-9a8f-7d0ac76e58f5",
+			"value": "HeroCTA",
+			"properties": [
+				{
+					"id": "2124dae4-0729-4eef-96c3-391ce985bb33",
+					"name": "header",
+					"value": "あなたのコンテンツ。複数のプロデザイン。",
+					"className": "leading-[1.6] _blank no-underline align-super align-sub text-4xl text-[#18181b] font-extralight",
+					"action": ""
+				},
+				{
+					"name": "bodyText",
+					"value": "Swap Styles",
+					"className": "no-underline align-sub align-super text-lg text-center text-[#64748b]",
+					"id": "47ccc0e4-4d02-4724-b18c-b1d9d049dd0f"
+				},
+				{
+					"name": "subHeader",
+					"value": "Swap styles without touching your content.",
+					"className": "c23e812d-2030-45fa-9dfc-0f70e94d1699 font-raleway py-3 text-lg hidden",
+					"id": "0a1f4445-4263-453b-a923-d5c00f05d091"
+				},
+				{
+					"id": "a78ce962-e641-467f-b551-dcf3e24fd6ae",
+					"name": "imgSrc",
+					"value": "https://utfs.io/f/7s6MAT6CG82xBIc8b6FrfO76LRxAN21tQcKbBhDI0py3TS8m",
+					"className": "rounded-[12px] border-[8px] border-[#fff] filter brightness-[100%] contrast-[100%] grayscale-[0%] blur-[0px] rounded-[8px] border-[0px] border-[#e5e7eb] blur-[8px] w-full shadow-lg opacity-[100%] object-cover",
+					"action": "",
+					"imageStyle": {
+						"borderRadius": 8,
+						"boxShadow": "none",
+						"borderWidth": 0,
+						"borderColor": "#e5e7eb",
+						"borderStyle": "solid",
+						"opacity": 1,
+						"objectFit": "cover",
+						"filter": { "brightness": 100, "contrast": 100, "grayscale": 0, "blur": 0 }
+					}
+				},
+				{
+					"name": "buttonText1",
+					"value": "Try this style",
+					"className": "6e28a69a-6baf-4e0f-84e2-778e749695e3 hidden",
+					"id": "bc1fd479-b62d-4adc-b9b2-8e18a405b992"
+				},
+				{
+					"name": "buttonText2",
+					"value": "Or try this style!",
+					"className": "c23e812d-2030-45fa-9dfc-0f70e94d1699 py-3 text-lg hidden",
+					"id": "affaa4a1-5310-4b25-82aa-755c0e78330d"
+				},
+				{
+					"name": "stylePackKey",
+					"value": "enterprise",
+					"className": "",
+					"id": "9e210d82-b483-4063-8823-a2dd0be5e8e5"
+				},
+				{
+					"name": "bottomDividerEnabled",
+					"value": "",
+					"className": "",
+					"id": "e0963d93-f4c1-4530-99ed-27f8de2c89b5"
+				},
+				{
+					"name": "bottomDividerColor",
+					"value": "#18181b",
+					"className": "",
+					"id": "dd6c1e7e-5982-4b47-9bc3-8c5690291688"
+				}
+			],
+			"children": []
+		},
+		{
+			"id": "AboutValues-ef246f7c-a0ca-47b2-91d8-25e2817f6331",
+			"value": "AboutValues",
+			"properties": [
+				{
+					"id": "feb17f45-957a-4720-aca0-e890021aca1b",
+					"name": "header",
+					"value": "私たちのコアバリュー",
+					"className": "no-underline text-5xl font-kaiseidecol text-center text-[#0f172a]",
+					"action": ""
+				},
+				{
+					"id": "ec2ee126-4515-4297-b919-267844bb0be2",
+					"name": "value_1_title",
+					"value": "Transparency",
+					"className": "text-sm",
+					"action": ""
+				},
+				{
+					"id": "bba7b0a0-50ca-42ae-a825-e29ab24bb487",
+					"name": "value_1_desc",
+					"value": "We believe in being open and honest in all things.",
+					"className": "italic no-underline",
+					"action": ""
+				},
+				{
+					"name": "value_1_box",
+					"value": "_box_1",
+					"className": "",
+					"id": "65d98d8c-364c-4ba8-8d35-e0861f1d8a96"
+				},
+				{
+					"name": "value_2_title",
+					"value": "Empowerment",
+					"className": "",
+					"id": "2001b76f-4a69-4063-b928-b4250d2ff327"
+				},
+				{
+					"id": "afad435c-d081-4ead-ba46-fea8bd7db9d9",
+					"name": "value_2_desc",
+					"value": "We build tools that put creators in the driver’s seat.",
+					"className": "italic no-underline",
+					"action": ""
+				},
+				{
+					"name": "value_2_box",
+					"value": "_box_2",
+					"className": "",
+					"id": "1313ffda-33de-4329-b266-7914b6ebfed9"
+				},
+				{
+					"name": "value_3_title",
+					"value": "Craftsmanship",
+					"className": "",
+					"id": "36a1d3df-0952-4aba-910c-df2f2d299c01"
+				},
+				{
+					"id": "84c66935-39d7-4bfa-b27f-3b1808fa64c9",
+					"name": "value_3_desc",
+					"value": "We care deeply about the quality of what we create.",
+					"className": "italic no-underline",
+					"action": ""
+				},
+				{
+					"name": "value_3_box",
+					"value": "_box_3",
+					"className": "",
+					"id": "38c5b5f8-80fe-47e7-aafb-b83f5c3211ac"
+				}
+			],
+			"children": []
+		},
+		{
+			"id": "HeroCTA-9ee38c01-a365-4bd8-a9bb-5ba3e97d5015",
+			"value": "HeroCTA",
+			"properties": [
+				{
+					"id": "13ef6bf2-4f3f-47d3-a706-a5043467cf03",
+					"name": "header",
+					"value": "Your content. Multiple pro designs. One click.",
+					"className": "text-[#6b7280] font-light",
+					"action": ""
+				},
+				{
+					"id": "7b5a9f63-664d-4c65-8749-38315fc0b3b8",
+					"name": "bodyText",
+					"value": "Swap Styles",
+					"className": "",
+					"action": ""
+				},
+				{
+					"id": "1e6886bc-4684-49c3-bbc6-477faa588a30",
+					"name": "subHeader",
+					"value": "Swap styles without touching your content.",
+					"className": "",
+					"action": ""
+				},
+				{
+					"id": "3dfac730-b8c8-4f97-93a0-f5d5c7c966f7",
+					"name": "imgSrc",
+					"value": "https://utfs.io/f/7s6MAT6CG82xIerU9tZ1AKoSNM3VYHs2Jtpgv6lO4FEmu7Xh",
+					"className": "rounded-[8px] border-[0px] border-[#e5e7eb] filter brightness-[100%] contrast-[100%] grayscale-[0%] blur-[0px] w-[1600px] h-[800px] opacity-[100%] object-scale-down",
+					"action": "",
+					"imageStyle": {
+						"borderRadius": 8,
+						"boxShadow": "none",
+						"borderWidth": 0,
+						"borderColor": "#e5e7eb",
+						"borderStyle": "solid",
+						"opacity": 1,
+						"objectFit": "scale-down",
+						"filter": { "brightness": 100, "contrast": 100, "grayscale": 0, "blur": 0 }
+					}
+				},
+				{
+					"id": "c37df3c6-2e0b-47ce-9379-c1b04dc2be71",
+					"name": "buttonText1",
+					"value": "Try this style",
+					"className": "",
+					"action": ""
+				},
+				{
+					"id": "1de67412-f987-4677-862e-96fbf5da8e5e",
+					"name": "buttonText2",
+					"value": "See all styles",
+					"className": "",
+					"action": ""
+				},
+				{
+					"id": "653aaec6-398f-41a9-87c8-ab15eff24a1a",
+					"name": "stylePackKey",
+					"value": "enterprise",
+					"className": "",
+					"action": ""
+				}
+			],
+			"children": []
+		},
+		{
+			"id": "AboutFounder-9f64ff7e-9a70-4ce2-a2b9-a0f2b31f079e",
+			"value": "AboutFounder",
+			"properties": [
+				{
+					"id": "b251aa88-7f77-4ffb-9828-b56c8920dfe2",
+					"name": "header",
+					"value": "Meet the Founder",
+					"className": "leading-[1.3] font-semibold text-5xl",
+					"action": ""
+				},
+				{
+					"id": "3607af26-54a7-4e11-b0d7-11a5d59df179",
+					"name": "bodyText",
+					"value": "Hi, I’m Alex — I started this platform to help creators take\n\t\t\t\t\tcontrol of their online presence. With a background in\n\t\t\t\t\tdesign and development, I wanted to remove the barriers to\n\t\t\t\t\tbuilding on the web.  \n\t\t\t\t",
+					"className": "leading-relaxed font-light text-lg",
+					"action": ""
+				},
+				{
+					"id": "ba03c03a-cb91-4317-bc4c-57aa868687c5",
+					"name": "imgSrc",
+					"value": "https://utfs.io/f/7s6MAT6CG82x2PcI8SeMb5oyeqQS9trzxlFsDfXVIpiT0auO",
+					"className": "rounded-[8px] border-[0px] border-[#e5e7eb] filter brightness-[100%] contrast-[100%] grayscale-[0%] blur-[8px] blur-[0px] contrast-[120%] grayscale-[100%] rounded-[16px] rounded-[12px] border-[8px] border-[#fff] rounded-[9999px] rounded-[20px] opacity-[100%] object-cover shadow-md w-[40rem] h-[20rem]",
+					"action": "",
+					"imageStyle": {
+						"borderRadius": 20,
+						"boxShadow": "none",
+						"borderWidth": 0,
+						"borderColor": "#e5e7eb",
+						"borderStyle": "solid",
+						"opacity": 1,
+						"objectFit": "cover",
+						"filter": { "brightness": 100, "contrast": 100, "grayscale": 0, "blur": 0 }
+					}
+				}
+			],
+			"children": []
+		}
+	]
+}

@@ -1,0 +1,64 @@
+# ——————————————————————————————————————————————
+# Bloqworx Subtree – Rust → WASM Project
+# ——————————————————————————————————————————————
+
+# === Rust build artifacts ===
+/target/
+/Cargo.lock
+
+# === wasm-pack output ===
+/pkg/
+/wasm-pack.log
+
+# === Debug / Temp files ===
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+*.idea/
+*.vscode/
+Thumbs.db
+
+# === OS-specific ===
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+ehthumbs.db
+desktop.ini
+
+# === Editor-specific ===
+# JetBrains
+*.iml
+.idea/
+# VS Code
+.vscode/
+.history/
+
+# === Node interop (if you npm publish pkg) ===
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# === Build scripts or local tooling ===
+/build/
+/dist/
+/scripts/local/
+/coverage/
+/.env
+.env.local
+.env.*
+
+# === Optional: wasm-opt intermediate files ===
+*.wasm-opt.*
+
+# === Temporary cargo-watch / cargo-make dirs ===
+/cargo-target/
+/.criterion/
+
+# === Ignore any copied WASM in parent Next.js project (defensive) ===
+../bloqworx/public/lib/rust/subtree/pkg/
